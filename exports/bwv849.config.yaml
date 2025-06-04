@@ -1,0 +1,18 @@
+workInfo:
+  title: "Fuga BWV 849"
+  fullTitle: "Prelude and Fugue in C-sharp minor, BWV 849"
+  composer: "J.S. Bach"
+  workId: "bwv849"
+  movementName: "Fuga"
+  externalURL: "https://en.wikipedia.org/wiki/Prelude_and_Fugue_in_C-sharp_minor,_BWV_849"
+
+files:
+  svgPath: "bwv849_optimized.svg"
+  notesPath: "bwv849_json_notes.json"
+  audioPath: "bwv849.mp3"
+  
+musicalStructure:
+  totalDurationSeconds: 463.104000
+  totalBars: 115
+  visualLeadTimeSeconds: 0
+

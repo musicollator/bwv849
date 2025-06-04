@@ -1,5 +1,5 @@
 ```
-docker run -v /Users/christophe.thiebaud/github.com/musicollator/bwv849:/work codello/lilypond:dev -I sources bwv849_absolutize.ly > bwv849_absolutized.ly
+docker run -v .:/work codello/lilypond:dev -I sources bwv849_absolutize.ly > bwv849_absolutized.ly
 ```
 
 ```

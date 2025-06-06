@@ -2,6 +2,10 @@
 
 \include "bwv849_absolutized.ly"
 
+\header {
+  tagline = ##f  % Removes LilyPond version info
+}
+
 bwv = \new StaffGroup
 <<
   \new Staff = "soprano"

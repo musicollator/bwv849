@@ -14,6 +14,6 @@ files:
 musicalStructure:
   ## totalDurationSeconds: 463.104000 (ffprobe -i exports/bwv849.mp3 -show_entries format=duration -v quiet -of csv="p=0")
   totalDurationSeconds: 209.09
-  totalBars: 115
+  totalMeasures: 115
   visualLeadTimeSeconds: 0
 

@@ -7,8 +7,6 @@ workInfo:
   externalURL: "https://en.wikipedia.org/wiki/Prelude_and_Fugue_in_C-sharp_minor,_BWV_849"
 
 files:
-  svgPath: "bwv849_optimized.svg"
-  notesPath: "bwv849_json_notes.json"
   audioPath: "bwv849.mp3"
   
 musicalStructure:
